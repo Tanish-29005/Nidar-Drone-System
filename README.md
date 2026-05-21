@@ -57,12 +57,6 @@ NIDAR is an autonomous drone system designed to detect survivors in disaster zon
 
 ---
 
-## 📸 Demo
-
-> *(Photos/videos from testing will be added here)*
-
----
-
 ## 🏆 Competition
 
 This project was part of an  national-level drone competition organized by the **Drone Federation of India (DFI)**. The system is designed to operate in real-world post-disaster scenarios with multi-environment robustness requirements.
